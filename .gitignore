@@ -1,0 +1,13 @@
+xcuserdata/
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+*.ipa
+*.xcarchive
+DistributionSummary.plist
+private_keys/
+screenshots/
+fastlane/report.xml
